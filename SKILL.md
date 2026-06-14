@@ -1,3 +1,9 @@
+---
+name: crypto-project-watcher
+description: AI skill that tracks crypto projects and generates structured reports
+version: 1.0.0
+---
+
 # Crypto Project Watcher
 
 ## Description
@@ -13,7 +19,7 @@ Track project: Rhea Finance
 - Analyze project activity
 - Summarize updates
 - Detect risks and signals
-- Output structured report
+- Evaluate activity level
 
 ## Output
 
@@ -22,12 +28,14 @@ Project: {name}
 Overview:
 ...
 
-Updates:
+Recent Updates:
 - ...
 
-Signals:
-- Positive
-- Risk
+Positive Signals:
+- ...
+
+Risk Factors:
+- ...
 
 Activity Level: Low / Medium / High
 
